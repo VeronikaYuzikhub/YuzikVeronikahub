@@ -58,6 +58,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+<p align="left">DevOps</p>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
+
+<p align="left">Principles & Concepts</p>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge" alt="SOLID" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented-green?style=for-the-badge" alt="OOP" />
+</div>
+
 <h2 align="left">Profile Views | GitHub</h2>
 
 <div align="center">
