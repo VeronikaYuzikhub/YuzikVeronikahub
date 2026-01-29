@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Bio Info</h1>
+<h1 align="left">Bio Info</h1>
 
 ###
 
