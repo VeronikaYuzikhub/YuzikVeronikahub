@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="left">Bio Info</h1>
 
 ###
@@ -64,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-<h1 align="left">Profile Views | GitHub</h1>
+<h2 align="left">Profile Views | GitHub</h2>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VeronikaYuzikhub.VeronikaYuzikhub&" />
